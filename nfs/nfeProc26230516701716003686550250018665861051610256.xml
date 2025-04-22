@@ -1,0 +1,277 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe Id="NFe26230516701716003686550250018665861051610256" versao="4.00">
+      <ide>
+        <cUF>26</cUF>
+        <cNF>05161025</cNF>
+        <natOp>VENDA</natOp>
+        <mod>55</mod>
+        <serie>25</serie>
+        <nNF>1866586</nNF>
+        <dhEmi>2023-05-05T16:10:25-03:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>2</idDest>
+        <cMunFG>2606200</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>6</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>1</indFinal>
+        <indPres>9</indPres>
+        <indIntermed>0</indIntermed>
+        <procEmi>0</procEmi>
+        <verProc>NDDigital NFe 4.8.2</verProc>
+      </ide>
+      <emit>
+        <CNPJ>16701716003686</CNPJ>
+        <xNome>FCA FIAT CHRYSLER AUTOMOVEIS BRASIL LTDA.</xNome>
+        <xFant>FIAPE AUTOS</xFant>
+        <enderEmit>
+          <xLgr>ROD. BR-101 NORTE</xLgr>
+          <nro>KM 13 A 15</nro>
+          <xBairro>NOVA GOIANA</xBairro>
+          <cMun>2606200</cMun>
+          <xMun>GOIANA</xMun>
+          <UF>PE</UF>
+          <CEP>55900000</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+          <fone>00008136164011</fone>
+        </enderEmit>
+        <IE>053213106</IE>
+        <IEST>817010330110</IEST>
+        <IM>000000028370015</IM>
+        <CNAE>2910701</CNAE>
+        <CRT>3</CRT>
+      </emit>
+      <dest>
+        <CPF>16231810895</CPF>
+        <xNome>FERNANDO APARECIDO DE ANDRADE PORTELLA</xNome>
+        <enderDest>
+          <xLgr>RUA CINCO</xLgr>
+          <nro>59</nro>
+          <xCpl>.</xCpl>
+          <xBairro>JARDIM MONTEIRO DA CRUZ (VICENTE DE CARVALHO)</xBairro>
+          <cMun>3518701</cMun>
+          <xMun>GUARUJA</xMun>
+          <UF>SP</UF>
+          <CEP>11462510</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+          <fone>00003991380125</fone>
+        </enderDest>
+        <indIEDest>9</indIEDest>
+      </dest>
+      <entrega>
+        <CNPJ>22064457000100</CNPJ>
+        <xNome>CB AUTO CROSS COM DE VEIC LTDA</xNome>
+        <xLgr>R DA CONSTITUICAO</xLgr>
+        <nro>532</nro>
+        <xBairro>VILA MATHIAS</xBairro>
+        <cMun>3548500</cMun>
+        <xMun>SANTOS</xMun>
+        <UF>SP</UF>
+        <CEP>11015472</CEP>
+        <cPais>1058</cPais>
+        <xPais>BRASIL</xPais>
+        <fone>00001332028500</fone>
+        <IE>633519330110</IE>
+      </entrega>
+      <autXML>
+        <CNPJ>22064457000100</CNPJ>
+      </autXML>
+      <det nItem="1">
+        <prod>
+          <cProd>6111KM1553</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>RENEGADE SPORT T270 FLEX     05 PASSAGEIROS</xProd>
+          <NCM>87032210</NCM>
+          <CEST>2500400</CEST>
+          <EXTIPI>00</EXTIPI>
+          <CFOP>6401</CFOP>
+          <uCom>UN</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>120276.3400000000</vUnCom>
+          <vProd>120276.34</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>120276.3400000000</vUnTrib>
+          <indTot>1</indTot>
+          <nItemPed>000000</nItemPed>
+          <nFCI>053A0892-C15A-4D1C-8B5D-125A6A602D62</nFCI>
+          <veicProd>
+            <tpOp>2</tpOp>
+            <chassi>9886111KMPK538657</chassi>
+            <cCor>847</cCor>
+            <xCor>CINZA GRANITE CRYSTAL</xCor>
+            <pot>185</pot>
+            <cilin>1332</cilin>
+            <pesoL>1460</pesoL>
+            <pesoB>1860</pesoB>
+            <nSerie>K538657</nSerie>
+            <tpComb>16</tpComb>
+            <nMotor>463536590362672</nMotor>
+            <CMT>0.2260</CMT>
+            <dist>2570</dist>
+            <anoMod>2023</anoMod>
+            <anoFab>2023</anoFab>
+            <tpPint>M</tpPint>
+            <tpVeic>13</tpVeic>
+            <espVeic>3</espVeic>
+            <VIN>N</VIN>
+            <condVeic>1</condVeic>
+            <cMod>200324</cMod>
+            <cCorDENATRAN>05</cCorDENATRAN>
+            <lota>005</lota>
+            <tpRest>0</tpRest>
+          </veicProd>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMSPart>
+              <orig>5</orig>
+              <CST>90</CST>
+              <modBC>3</modBC>
+              <vBC>92636.83</vBC>
+              <pRedBC>22.98</pRedBC>
+              <pICMS>12.00</pICMS>
+              <vICMS>11116.41</vICMS>
+              <modBCST>6</modBCST>
+              <pRedBCST>0.0000</pRedBCST>
+              <vBCST>27639.50</vBCST>
+              <pICMSST>12.00</pICMSST>
+              <vICMSST>3316.73</vICMSST>
+              <pBCOp>77.02</pBCOp>
+              <UFST>SP</UFST>
+            </ICMSPart>
+          </ICMS>
+          <IPI>
+            <cEnq>332</cEnq>
+            <IPINT>
+              <CST>52</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>02</CST>
+              <vBC>100829.62</vBC>
+              <pPIS>2.00</pPIS>
+              <vPIS>2016.59</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>02</CST>
+              <vBC>100829.62</vBC>
+              <pCOFINS>9.60</pCOFINS>
+              <vCOFINS>9679.64</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+        <infAdProd>004 CILINDROS - 0 KM   FAB 2023        MOD-2023   LOTACAO OU TONELAGEM: PBT  1.860 KG, CMT 2.260 KG.             COR-CINZA GRANITE CRYSTAL            REV-BLACK LEATHER</infAdProd>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>92636.83</vBC>
+          <vICMS>11116.41</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCPUFDest>0.00</vFCPUFDest>
+          <vICMSUFDest>0.00</vICMSUFDest>
+          <vICMSUFRemet>0.00</vICMSUFRemet>
+          <vFCP>0.00</vFCP>
+          <vBCST>27639.50</vBCST>
+          <vST>3316.73</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>120276.34</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>2016.59</vPIS>
+          <vCOFINS>9679.64</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>120276.34</vNF>
+          <vTotTrib>0.00</vTotTrib>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>0</modFrete>
+        <transporta>
+          <CNPJ>59107938001634</CNPJ>
+          <xNome>TRANSZERO TRANSPORTADORA DE V*</xNome>
+          <IE>037062573</IE>
+          <xEnder>R DOIS NORTE</xEnder>
+          <xMun>IPOJUCA</xMun>
+          <UF>PE</UF>
+        </transporta>
+        <vol>
+          <qVol>1</qVol>
+          <esp>VEICULO</esp>
+          <marca>JEEP</marca>
+          <pesoL>1460.000</pesoL>
+          <pesoB>1860.000</pesoB>
+        </vol>
+      </transp>
+      <cobr>
+        <fat>
+          <nFat>586</nFat>
+          <vOrig>120276.34</vOrig>
+          <vDesc>0.00</vDesc>
+          <vLiq>120276.34</vLiq>
+        </fat>
+      </cobr>
+      <pag>
+        <detPag>
+          <tPag>15</tPag>
+          <vPag>120276.34</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infCpl>CL:2306961-0 REGIAO:35/00 VEIC:611K538657-0  PAT FPE- ORG 0538656 PFD 350212958 PED: 524356187-4 MOTOR  463536590362672                                                                                                                                                      .  ALIQ.ICMS ART.54 INC.X DO DEC.45490/00 30.11.2000 FATURAMENTO DIRETO A CONSUMIDOR FINAL - CONVENIO 51/00, DE 15/09/2000 (77,02%)  ( VALOR BASE DE IPI  R$:  133.640,38 ) ISENTO IPI,LEI 8.989/95,AUTORIZACAO N: 10/2023  CONFORME P|ROCESSO ADMINISTRATIVO N: 26000.174651/2023-23  VALOR DO IPI NAO TRIBUTADO R$: 8.392,62                                           IPI ISENTO INC.IV ART.55 RIPI-IN SRF 1376/13- LEI 8989/95                                  ITENS ORIGINAIS DE FABRICA:                                                              3T3-PACK EXCLUSIVE            R$   4.649,04                                               210-PINTURA METALICA          R$   1.315,10#BASE DE CALCULO DO IPI (DEDUCAO COMISSAO E CONV 51/00)</infCpl>
+      </infAdic>
+      <infRespTec>
+        <CNPJ>06255692000103</CNPJ>
+        <xContato>Jackson Antonio Cenci</xContato>
+        <email>produtos.edocs@ndd.com.br</email>
+        <fone>554932518000</fone>
+      </infRespTec>
+    </infNFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+        <Reference URI="#NFe26230516701716003686550250018665861051610256">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+          <DigestValue>8p/Ivdty8SZPI0s2JYvyINU3V6k=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>Gti63x47bVCAXyTsI6ZOP6Wl25g+rAvuv1TXIAMS4THXau3RWU63M1OjCUa9UEWopdNmDzNi1mPdAmSuljTjfKgBAm0P16JfL/hUeW74DOhTonx2BcWBv8iUBWZIRiy+WILMsX4VvopNF569P9SrLGZtvZMyoK/3MNaAJBGhDtl7GFpmdxIZd2iN2TpdQEuHKk1IPnharPbPMoAWb3moeiawH92e7o7ZIKIrJOwjAqE/TnWC2YJtHSzD93gSQDYpNfCWHMmr3BM16H/vC49cJxCJ8vU4SvzRMcFlcznk5B0KePekgNRNbjpCD2Guww0RgFsmzJBNVjSxp/5N+lkrpg==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>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</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt Id="NFe126230039071673">
+      <tpAmb>1</tpAmb>
+      <verAplic>NFEPE_P_1.39.0</verAplic>
+      <chNFe>26230516701716003686550250018665861051610256</chNFe>
+      <dhRecbto>2023-05-05T16:10:51-03:00</dhRecbto>
+      <nProt>126230039071673</nProt>
+      <digVal>8p/Ivdty8SZPI0s2JYvyINU3V6k=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>

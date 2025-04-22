@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ConsultarNfseResposta xmlns="http://www.publica.inf.br" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" xmlns:ns3="http://www.publica.inf.br/integracao_nfse">
+    <ListaNfse>
+        <CompNfse>
+            <Nfse>
+                <InfNfse id="87434780">
+                    <Numero>202500000003580</Numero>
+                    <Serie>A1</Serie>
+                    <CodigoVerificacao>PTC4-HGVS</CodigoVerificacao>
+                    <DataEmissao>2025-04-09T15:00:03</DataEmissao>
+                    <IdentificacaoRps>
+                        <Numero>3580</Numero>
+                        <Serie>1</Serie>
+                        <Tipo>1</Tipo>
+                    </IdentificacaoRps>
+                    <DataEmissaoRps>2025-04-09</DataEmissaoRps>
+                    <NaturezaOperacao>101</NaturezaOperacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivadorCultural>2</IncentivadorCultural>
+                    <Competencia>2025-04</Competencia>
+                    <OutrasInformacoes>- Esta NF-em foi gerada com fundamento na Lei Complementar Municipal n. 286, de 21 de novembro de 2008, regulamentada pelo Decreto Municipal n. 30.798, de 08 de março de 2018.</OutrasInformacoes>
+                    <Servico>
+                        <Valores>
+                            <ValorServicos>38.28000</ValorServicos>
+                            <ValorDeducoes>0.00000</ValorDeducoes>
+                            <ValorPis>0.00000</ValorPis>
+                            <ValorCofins>0.00000</ValorCofins>
+                            <ValorInss>0.00000</ValorInss>
+                            <ValorIr>0.00000</ValorIr>
+                            <ValorCsll>0.00000</ValorCsll>
+                            <IssRetido>2</IssRetido>
+                            <ValorIss>0.76560</ValorIss>
+                            <ValorIssRetido>0.00000</ValorIssRetido>
+                            <OutrasRetencoes>0.00000</OutrasRetencoes>
+                            <BaseCalculo>38.28000</BaseCalculo>
+                            <Aliquota>2.00000</Aliquota>
+                            <ValorLiquidoNfse>38.28000</ValorLiquidoNfse>
+                            <DescontoIncondicionado>0.00000</DescontoIncondicionado>
+                            <DescontoCondicionado>0.00000</DescontoCondicionado>
+                        </Valores>
+                        <ItemListaServico>106</ItemListaServico>
+                        <Discriminacao>Consulta de Multas Semanal 6 x 6.38 - 38,28 - Proposta 23363.
+
+Val Aprox Tributos  R$ 2,16  5,65  . Fonte  IBPT. Municipal  R$ 0,77  2,00  . Federal  R$ 1,40  3,65  .
+
+
+Vencimento - 04-05-2025
+
+
+Servico prestado no municipio de Joinville
+
+Contrato  4700002415 Pedido 2025  4500012059</Discriminacao>
+                        <InformacoesComplementares></InformacoesComplementares>
+                        <CodigoMunicipio>4209102</CodigoMunicipio>
+                    </Servico>
+                    <PrestadorServico>
+                        <IdentificacaoPrestador>
+                            <Cnpj>09337014000331</Cnpj>
+                            <InscricaoMunicipal>1910542</InscricaoMunicipal>
+                        </IdentificacaoPrestador>
+                        <RazaoSocial>AGILE GESTAO DE FROTAS E SERVICOS S.A</RazaoSocial>
+                        <Endereco>
+                            <Endereco>HUMBERTO DE CAMPOS</Endereco>
+                            <Numero>114</Numero>
+                            <Complemento>ANDAR 1</Complemento>
+                            <Bairro>AMERICA</Bairro>
+                            <CodigoMunicipio>4209102</CodigoMunicipio>
+                            <Uf>SC</Uf>
+                            <Cep>89204220</Cep>
+                        </Endereco>
+                        <Contato/>
+                    </PrestadorServico>
+                    <TomadorServico>
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+<Cnpj>59291534000167</Cnpj>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>Casa Bahia Comercial Ltda.</RazaoSocial>
+                        <NomeFantasia>CASAS BAHIA COMERCIAL LTDA</NomeFantasia>
+                        <Endereco>
+                            <Endereco>AV AVENIDA CONDE FRANCISCO MATARAZZO 100</Endereco>
+                            <Numero>100</Numero>
+                            <Complemento>ANEXO RUA SAMUEL KLEIN 83</Complemento>
+                            <Bairro>CENTRO</Bairro>
+                            <CodigoMunicipio>3548807</CodigoMunicipio>
+                            <Uf>SP</Uf>
+                            <Cep>09520900</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>11986124204</Telefone>
+                            <Email>gestao.contratos@grupocb.com.br</Email>
+                        </Contato>
+                    </TomadorServico>
+                    <OrgaoGerador>
+                        <CodigoMunicipio>4209102</CodigoMunicipio>
+                        <Uf>SC</Uf>
+                    </OrgaoGerador>
+                    <LinkVisualizacaoNfse>https://nfem.joinville.sc.gov.br/NFES?bmV3=3bd56c02daeac0fae11d8d733133b21e5a3448c7eca1d06865672e8fcbbdc9933e6c509cb39dd5b0991dac4e8eacc5dfd4615e27a07793b883bd022369335071</LinkVisualizacaoNfse>
+                </InfNfse>
+            </Nfse>
+            <NfseCancelamento/>
+        </CompNfse>
+    </ListaNfse>
+</ConsultarNfseResposta>

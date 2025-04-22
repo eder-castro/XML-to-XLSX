@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RetornoConsulta xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.prefeitura.sp.gov.br/nfe"><Cabecalho xmlns="" Versao="1"><Sucesso>true</Sucesso></Cabecalho><NFe xmlns=""><Assinatura>OYkkosix5Xo2JN8o6sddWFfZuAijoJc4V6JsCZ884JhPSafcImqKufdY9COLG39l2l3flvZNo9mW9fvAbCDfF0Dn8GjJmUveXw+BsuGqEvFI/Ygf286r8NKca/PpXcYo449pBD0zMznt6M/9E/LU1sUE0XegHrOyieqVooDeqZPoNfG+o4I/VZS7JXTVISofew/JJRE8ySd3YRCoTFMOJsQpOqdTHfDpCx2cO3T6U+G/e58DMfv5xK9aqIl0Au1zBfHopQAZm8V6D/ZfMedNKOJApC2Usb883YBIdBGsTqFjuxb0ueg5v+IYWXm5G690jpxeGfUPl8MTiZHiHHu9Vg==</Assinatura><ChaveNFe><InscricaoPrestador>27472345</InscricaoPrestador><NumeroNFe>3749</NumeroNFe><CodigoVerificacao>LBB6XVY7</CodigoVerificacao></ChaveNFe><DataEmissaoNFe>2025-04-09T10:23:28</DataEmissaoNFe><ChaveRPS><InscricaoPrestador>27472345</InscricaoPrestador><SerieRPS>NFSE</SerieRPS><NumeroRPS>372</NumeroRPS></ChaveRPS><TipoRPS>RPS</TipoRPS><DataEmissaoRPS>2025-04-09</DataEmissaoRPS><DataFatoGeradorNFe>2025-04-09T00:00:00</DataFatoGeradorNFe><CPFCNPJPrestador><CNPJ>02878522000116</CNPJ></CPFCNPJPrestador><RazaoSocialPrestador>IRKO HIRASHIMA AUDITORES INDEPENDENTES LTDA</RazaoSocialPrestador><EnderecoPrestador><TipoLogradouro>R</TipoLogradouro><Logradouro>DOM JOSE DE BARROS</Logradouro><NumeroEndereco>177</NumeroEndereco><ComplementoEndereco>ANDAR 3               </ComplementoEndereco><Bairro>CENTRO</Bairro><Cidade>3550308</Cidade><UF>SP</UF><CEP>1038901</CEP></EnderecoPrestador><EmailPrestador>contasapagar@irkohirashima.com.br</EmailPrestador><StatusNFe>N</StatusNFe><TributacaoNFe>T</TributacaoNFe><OpcaoSimples>0</OpcaoSimples><ValorServicos>5000</ValorServicos><ValorPIS>32.5</ValorPIS><ValorCOFINS>150</ValorCOFINS><ValorIR>75</ValorIR><ValorCSLL>50</ValorCSLL><CodigoServico>3395</CodigoServico><AliquotaServicos>0.05</AliquotaServicos><ValorISS>250</ValorISS><ValorCredito>0</ValorCredito><ISSRetido>false</ISSRetido><CPFCNPJTomador><CNPJ>19760435000162</CNPJ></CPFCNPJTomador><RazaoSocialTomador>CB NOVOS NEGOCIOS S.A.</RazaoSocialTomador><EnderecoTomador><TipoLogradouro>AL</TipoLogradouro><Logradouro>Terracota</Logradouro><NumeroEndereco>215</NumeroEndereco><ComplementoEndereco>CONJ  518 e 519</ComplementoEndereco><Bairro>Cerâmica</Bairro><Cidade>3548807</Cidade><UF>SP</UF><CEP>9531190</CEP></EnderecoTomador><EmailTomador>wilton.rodrigues@grupocb.com.br</EmailTomador><Discriminacao>HONORARIOS REFERENTE A SERVICOS PROFISSIONAIS PRESTADOS.
+
+PROCEDER AS RETENCOES CONFORME ARTS. 30 E 31 DA LEI 10833/03 COMBINADOS COM O ART. 5o. DA LEI 10925/04 E ART. 714DO RIR/2018.
+
+FAVOR EFETUAR O PAGAMENTO ATRAVES DOS DADOS ABAIXO INFORMADOS:
+BANCO ITAU (341)
+AGENCIA: 8089
+C/C: 27595-5
+
+Auditoria das demonstracoes contabeis referente ao exercicio social a findar-se em 31 de dezembro de 2024.
+
+Pedido: 4500012841
+
+Parcela 001/006 - Vencto. 28/04/2025
+
+Valor Liquido R$ 4.692,50</Discriminacao><FonteCargaTributaria/></NFe></RetornoConsulta>

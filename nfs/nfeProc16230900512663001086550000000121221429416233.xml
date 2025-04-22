@@ -1,0 +1,207 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe versao="4.00" Id="NFe16230900512663001086550000000121221429416233">
+      <ide>
+        <cUF>16</cUF>
+        <cNF>42941623</cNF>
+        <natOp>VENDA PECAS - OUTRA REVENDA</natOp>
+        <mod>55</mod>
+        <serie>0</serie>
+        <nNF>12122</nNF>
+        <dhEmi>2023-09-21T11:50:00-03:00</dhEmi>
+        <dhSaiEnt>2023-09-21T11:50:00-03:00</dhSaiEnt>
+        <tpNF>1</tpNF>
+        <idDest>2</idDest>
+        <cMunFG>1600303</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>3</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>0</indFinal>
+        <indPres>0</indPres>
+        <procEmi>0</procEmi>
+        <verProc>DealerNet.GX 6.3</verProc>
+      </ide>
+      <emit>
+        <CNPJ>00512663001086</CNPJ>
+        <xNome>VIA MARCONI VEICULOS LTDA</xNome>
+        <xFant>VIA MARCONI VEICULOS LTDA - WAY MACAPA</xFant>
+        <enderEmit>
+          <xLgr>RODOVIA JUSCELINO KUBITSCHEK</xLgr>
+          <nro>291</nro>
+          <xCpl>GALPAO A</xCpl>
+          <xBairro>JARDIM MARCO ZERO</xBairro>
+          <cMun>1600303</cMun>
+          <xMun>MACAPA</xMun>
+          <UF>AP</UF>
+          <CEP>68903197</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+          <fone>9621013030</fone>
+        </enderEmit>
+        <IE>030504791</IE>
+        <CRT>3</CRT>
+      </emit>
+      <dest>
+        <CNPJ>22064457000100</CNPJ>
+        <xNome>CB AUTO CROSS COMERCIO DE VEICULOS LTDA (515354)</xNome>
+        <enderDest>
+          <xLgr>RUA DA CONSTITUICAO</xLgr>
+          <nro>532</nro>
+          <xBairro>VILA MATHIAS</xBairro>
+          <cMun>3548500</cMun>
+          <xMun>SANTOS</xMun>
+          <UF>SP</UF>
+          <CEP>11015472</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+          <fone>1332028500</fone>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>633519330110</IE>
+        <email>FISCAL@GRUPOCB.COM.BR</email>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>50927621</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>CENTRAL MULTIMI</xProd>
+          <NCM>85272100</NCM>
+          <CEST>0106100</CEST>
+          <CFOP>6404</CFOP>
+          <uCom>UNIDAD</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>9201.90000000</vUnCom>
+          <vProd>9201.90</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>9201.90000000</vUnTrib>
+          <vFrete>199.28</vFrete>
+          <vDesc>4801.90</vDesc>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS10>
+              <orig>0</orig>
+              <CST>10</CST>
+              <modBC>3</modBC>
+              <vBC>4599.28</vBC>
+              <pICMS>12.00</pICMS>
+              <vICMS>551.91</vICMS>
+              <modBCST>4</modBCST>
+              <pMVAST>84.0300</pMVAST>
+              <vBCST>8464.05</vBCST>
+              <pICMSST>18.00</pICMSST>
+              <vICMSST>971.62</vICMSST>
+            </ICMS10>
+          </ICMS>
+          <PIS>
+            <PISNT>
+              <CST>04</CST>
+            </PISNT>
+          </PIS>
+          <COFINS>
+            <COFINSNT>
+              <CST>04</CST>
+            </COFINSNT>
+          </COFINS>
+        </imposto>
+        <infAdProd>Trib aprox  R$: 551.91 Fed, R$: 0.00 Est, R$: 0.00 Mun, Fonte: IBPT/AP .</infAdProd>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>4599.28</vBC>
+          <vICMS>551.91</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCP>0.00</vFCP>
+          <vBCST>8464.05</vBCST>
+          <vST>971.62</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>9201.90</vProd>
+          <vFrete>199.28</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>4801.90</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>0.00</vPIS>
+          <vCOFINS>0.00</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>5570.90</vNF>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>1</modFrete>
+        <vol>
+          <pesoL>2.748</pesoL>
+          <pesoB>2.748</pesoB>
+        </vol>
+      </transp>
+      <cobr>
+        <fat>
+          <nFat>0</nFat>
+          <vOrig>5570.90</vOrig>
+          <vDesc>0.00</vDesc>
+          <vLiq>5570.90</vLiq>
+        </fat>
+        <dup>
+          <nDup>001</nDup>
+          <dVenc>2023-09-21</dVenc>
+          <vDup>5570.90</vDup>
+        </dup>
+      </cobr>
+      <pag>
+        <detPag>
+          <tPag>99</tPag>
+          <xPag>Faturamento</xPag>
+          <vPag>5570.90</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infCpl>- Vendedor:DIEGO OLIVEIRA FERNANDES - Codigo Nota:822859 - COND.PAGTO RECEBIDO ANTECIPADAMENTE (PECAS / SERVICOS) Pedido 125671; - SAIDA DE PECAS ST IMPOSTO RECOLHIDO POR SUBSTITUICAO TRIBUTARIA CONFORME PROTOCOLO 41/2008 E ATUALIZACOES - Email Cliente:FISCAL@GRUPOCB.COM.BR; Trib aprox R$:551,91 Fed, R$ 0,00 Est e R$ 0,00 Mun. Fonte:IBPT/AP</infCpl>
+      </infAdic>
+      <infRespTec>
+        <CNPJ>63356000000149</CNPJ>
+        <xContato>Antonio Sergio Rodrigues</xContato>
+        <email>administracao@dealernet.com.br</email>
+        <fone>7121062226</fone>
+      </infRespTec>
+    </infNFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+        <Reference URI="#NFe16230900512663001086550000000121221429416233">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+          <DigestValue>j+s6v3AMQxJNzYKjk23tVnWnahE=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>HMf199JUH0+g0NpYmV9YFCostd2UQ9klJ5wsAHrqHbeTKvIa8RfKhL8x8xls6BHXlvfLIZuGBI6uSao43dpUeFJSYJ7zoi1dDT1NCEu1lpZguauWbCDcRljRXWUg54Ek+ByNvJSxxZWTnpqR/0l4GCCOkIcttcaiURwqazH15IVT67IS4Cl4dtRJqiHcVTmhmoYFyhKFUYcY7Wx3We6mQyT4z7T9Ac/7uDsBM9hFWQvFX+Pf6zv0sQ3lQYvlzOEr0D+I/pal05mAwgfKMZ7O4qOkv4V/2EETzF868Qe70KYSFptVK27MMqKWZnPboRhX+whkWZJUigXgmQiJcHZ0uw==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>MIIH1jCCBb6gAwIBAgIIBmsGILZYHBwwDQYJKoZIhvcNAQELBQAwdDELMAkGA1UEBhMCQlIxEzARBgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEYMBYGA1UEAxMPQUMgVkFMSUQgUkZCIHY1MB4XDTIzMDYxMzExMjExNVoXDTI0MDYxMjExMjExNVowggECMQswCQYDVQQGEwJCUjELMAkGA1UECBMCQU0xDzANBgNVBAcTBk1BTkFVUzETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLEw1SRkIgZS1DTlBKIEExMQ8wDQYDVQQLEwZBUiBETkExEzARBgNVBAsTClByZXNlbmNpYWwxFzAVBgNVBAsTDjA3ODc1NTMzMDAwMTY2MTEwLwYDVQQDEyhWSUEgTUFSQ09OSSBWRUlDVUxPUyBMVERBOjAwNTEyNjYzMDAwMTk1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArDGTeh2kBRQSKFIK58E+Ru/OrtwCiQtQGQOeH/vg51sX7mNP8wxqeTjJqgcdau/QwltXAXmLhHK5i7stKxm4/XcNct9cuF0vFlZ/jFuzDAeQ5Hfic5z6GUGWoM9aE9g7XUe/hbkSZki7pKgMyogHjA3as/kx5qyRQ+W4ipRkDGHrBlovCnXG5VnP/rR9Y+2DRbVKCJJWHm7em+h7xuMsLi/CRE6/bwcppXBj1vV1Uz+mvnh8OShWPz0n/XCT8FhDqYQ95lUiFUiPppDq+m1A0IZCp0ako86Y6gZBXiWhxRS6YS5SKJbCI7BVVdTmPIyG0K9QssS3NrNcjtCiSf0J+QIDAQABo4IC2jCCAtYwgZwGCCsGAQUFBwEBBIGPMIGMMFUGCCsGAQUFBzAChklodHRwOi8vaWNwLWJyYXNpbC52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyL2FjLXZhbGlkcmZiL2FjLXZhbGlkcmZidjUucDdiMDMGCCsGAQUFBzABhidodHRwOi8vb2NzcHY1LnZhbGlkY2VydGlmaWNhZG9yYS5jb20uYnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBRTy6XkdVCZQCy+WxVFyb7LMKqJxTBwBgNVHSAEaTBnMGUGBmBMAQIBJTBbMFkGCCsGAQUFBwIBFk1odHRwOi8vaWNwLWJyYXNpbC52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyL2FjLXZhbGlkcmZiL2RwYy1hYy12YWxpZHJmYnY1LnBkZjCBtgYDVR0fBIGuMIGrMFOgUaBPhk1odHRwOi8vaWNwLWJyYXNpbC52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyL2FjLXZhbGlkcmZiL2xjci1hYy12YWxpZHJmYnY1LmNybDBUoFKgUIZOaHR0cDovL2ljcC1icmFzaWwyLnZhbGlkY2VydGlmaWNhZG9yYS5jb20uYnIvYWMtdmFsaWRyZmIvbGNyLWFjLXZhbGlkcmZidjUuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwga4GA1UdEQSBpjCBo4EYRklTQ0FMQFZJQU1BUkNPTkkuQ09NLkJSoDgGBWBMAQMEoC8ELTAxMTAxOTM4MDAwOTUxNTA0NjMwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAZBgVgTAEDAqAQBA5ESkFMTUEgQkVaRVJSQaAZBgVgTAEDA6AQBA4wMDUxMjY2MzAwMDE5NaAXBgVgTAEDB6AOBAwwMDAwMDAwMDAwMDAwDQYJKoZIhvcNAQELBQADggIBAAqCqZ3kwRgbOztYaDJgBi9rllYyg0NNUc6/93Nh5Qd56ZxLr882kWZvQyxZpOPt/ImkpAXLluIoZcvgwfvGApDibMNT7LPr9fo/abIaWa/xhfDw/v7aTm5toGuwbaxduLDoAniMFvBV2dxLnnqHACUmba4ME8Lbur8rMvKA5c0jbVDsSXeHGZFRKasczdSwY/zO6onqc5/ozAxAQBvplzResV8dEyObB56EIaa+9++nwoNmfCaZloc0U7CsccMhJisCyancWNy5c8Nh04zn/jLgy5JQ6i2ttwAiehvuJemESQa7bopHHlxkhE4TOz88JdJBUjZn7EgWsb2Bb5W3MK0DlQGuTHojeRm5fp6XtxSrXqkttP4nSp+z3yuuXIJlqTtEaqNn+7IjZLerZpDiYqSSLYprTNSt5KahqYBvwzXqjoZpsl9nu2ahFaHIDjWv29B4dHn6fDWaqS2wWWmZFfXIGuwmfskz+KlYbRXgzE2+yMEeY2mviyJyq8/fS9NLysapuVin3b1jnnocZLFgGF9sOREZWIoi6Y3xAq88AlyTqEE0t6rJYgEA2xelyxkr6C8i04aOTgiPAtVGWjRlYfzprMu2/JsiNd3QNsMu0eR76zbDWQr15XcpDiUdmXe5ELcn7mGLjMVusLWHgvVF7nMRo8LL0vixuiCwqUegjBvF</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infProt>
+      <tpAmb>1</tpAmb>
+      <verAplic>SVRS202309150902</verAplic>
+      <chNFe>16230900512663001086550000000121221429416233</chNFe>
+      <dhRecbto>2023-09-21T11:50:51-03:00</dhRecbto>
+      <nProt>316230003794036</nProt>
+      <digVal>j+s6v3AMQxJNzYKjk23tVnWnahE=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>

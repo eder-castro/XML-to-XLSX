@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RetornoConsulta xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.prefeitura.sp.gov.br/nfe"><Cabecalho xmlns="" Versao="1"><Sucesso>true</Sucesso></Cabecalho><NFe xmlns=""><Assinatura>kpvwIDwJeAxeVVJxcJvMStKmkpV5CH/6duoUQlHkX/sZgHW27ixJ+DJk0rQqI2j180koMQNnUxsQMWWnyPeRKT6Un2cmHdWngsMyLt0gXM6qLkF0YBBdu/lNQ0FVb0JVXIhLZaGjk1NY3yPCh/U4VN7JKaJNv752WNIAQkF73w18fIxaRwWRSeZZdmhXrgiWw3xNsPsm4Ih31bk7BuJZhJbDwdbMRR7t06EtWpqopbJGFEwgR50+YkCTjKSeEXzoslXcOHZbADRt6GG/AVRFTXqAoYqW35kECG6i6FasWwW5wWzgAx/xg6Xk+eHjedHDnXBBWJ0XZqoQ0CaGAQSe4g==</Assinatura><ChaveNFe><InscricaoPrestador>27472345</InscricaoPrestador><NumeroNFe>3750</NumeroNFe><CodigoVerificacao>IL1RU9QK</CodigoVerificacao></ChaveNFe><DataEmissaoNFe>2025-04-09T10:47:32</DataEmissaoNFe><ChaveRPS><InscricaoPrestador>27472345</InscricaoPrestador><SerieRPS>NFSE</SerieRPS><NumeroRPS>373</NumeroRPS></ChaveRPS><TipoRPS>RPS</TipoRPS><DataEmissaoRPS>2025-04-09</DataEmissaoRPS><DataFatoGeradorNFe>2025-04-09T00:00:00</DataFatoGeradorNFe><CPFCNPJPrestador><CNPJ>02878522000116</CNPJ></CPFCNPJPrestador><RazaoSocialPrestador>IRKO HIRASHIMA AUDITORES INDEPENDENTES LTDA</RazaoSocialPrestador><EnderecoPrestador><TipoLogradouro>R</TipoLogradouro><Logradouro>DOM JOSE DE BARROS</Logradouro><NumeroEndereco>177</NumeroEndereco><ComplementoEndereco>ANDAR 3               </ComplementoEndereco><Bairro>CENTRO</Bairro><Cidade>3550308</Cidade><UF>SP</UF><CEP>1038901</CEP></EnderecoPrestador><EmailPrestador>contasapagar@irkohirashima.com.br</EmailPrestador><StatusNFe>N</StatusNFe><TributacaoNFe>T</TributacaoNFe><OpcaoSimples>0</OpcaoSimples><ValorServicos>45000</ValorServicos><ValorPIS>292.5</ValorPIS><ValorCOFINS>1350</ValorCOFINS><ValorIR>675</ValorIR><ValorCSLL>450</ValorCSLL><CodigoServico>3395</CodigoServico><AliquotaServicos>0.05</AliquotaServicos><ValorISS>2250</ValorISS><ValorCredito>0</ValorCredito><ISSRetido>false</ISSRetido><CPFCNPJTomador><CNPJ>32946884000168</CNPJ></CPFCNPJTomador><InscricaoMunicipalTomador>64094944</InscricaoMunicipalTomador><RazaoSocialTomador>CB AUTOS PARTICIPACOES LTDA.</RazaoSocialTomador><EnderecoTomador><TipoLogradouro>AV</TipoLogradouro><Logradouro>REGENTE FEIJO</Logradouro><NumeroEndereco>1234</NumeroEndereco><ComplementoEndereco>SALA  01</ComplementoEndereco><Bairro>VILA REGENTE FEIJO</Bairro><Cidade>3550308</Cidade><UF>SP</UF><CEP>3342000</CEP></EnderecoTomador><Discriminacao>HONORARIOS REFERENTE A SERVICOS PROFISSIONAIS PRESTADOS.
+
+PROCEDER AS RETENCOES CONFORME ARTS. 30 E 31 DA LEI 10833/03 COMBINADOS COM O ART. 5o. DA LEI 10925/04 E ART. 714DO RIR/2018.
+
+FAVOR EFETUAR O PAGAMENTO ATRAVES DOS DADOS ABAIXO INFORMADOS:
+BANCO ITAU (341)
+AGENCIA: 8089
+C/C: 27595-5
+
+Auditoria das demonstracoes contabeis consolidadas referente ao exercicio social a findar-se em 31 de dezembro de 2024.
+
+Pedido: 4500011509.
+
+Adicional - CB Automotive.
+Vencto. 09/05/2025
+
+Valor Liquido R$ 42.232,50</Discriminacao><FonteCargaTributaria/></NFe></RetornoConsulta>
