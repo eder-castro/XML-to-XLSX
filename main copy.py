@@ -187,12 +187,12 @@ def pegar_infos(nome_arquivo, valores):
 		else:
 			num_contrato_formatado = int(num_contrato)
 		
-		valores.append([numero_NF_formatado, data_emissao, CNPJ_emissor_formatado, razao_emissor, DOC_tomador_formatado, razao_tomador, num_pedido_formatado, num_contrato_formatado, valor_formatado, nome_arquivo])
+		valores.append([numero_NF_formatado, data_emissao, CNPJ_emissor_formatado, razao_emissor, DOC_tomador_formatado, razao_tomador, num_contrato_formatado, num_pedido_formatado, valor_formatado, nome_arquivo])
 
 lista_arquivos = os.listdir(path='./nfs')
 qt_arquivos = 0
 
-colunas = ["Número NF", "Data Emissão", "CNPJ Prestador", "Razão Social Prestador", "CNPJ/CPF Tomador", "Razão Social Tomador", "Pedido", "Contrato", "Valor", "Nome do Arquivo xml"]
+colunas = ["Número NF", "Data Emissão", "CNPJ Prestador", "Razão Social Prestador", "CNPJ/CPF Tomador", "Razão Social Tomador", "Contrato", "Pedido", "Valor", "Nome do Arquivo xml"]
 valores = []
 
 for arquivo in lista_arquivos:
