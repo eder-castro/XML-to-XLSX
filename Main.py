@@ -40,7 +40,6 @@ def pegar_infos(nome_arquivo):
         num_contrato = None
         data_emissao = None
 
-        # ... (seu código anterior) ...
         if "xmlNfpse" in dic_arquivo:
             infos_nf = dic_arquivo["xmlNfpse"]
             numero_NF = infos_nf["numeroSerie"]
@@ -187,9 +186,9 @@ def pegar_infos(nome_arquivo):
         return {
             "Número NF": numero_NF_formatado,
             "Data Emissão": data_emissao,
-            "CNPJ Prestador": CNPJ_emissor_formatado, # Mantendo como número
+            "CNPJ Prestador": CNPJ_emissor_formatado,
             "Razão Social Prestador": razao_emissor,
-            "CNPJ/CPF Tomador": DOC_tomador_formatado, # Mantendo como número
+            "CNPJ/CPF Tomador": DOC_tomador_formatado,
             "Razão Social Tomador": razao_tomador,
             "Contrato": num_contrato_formatado,
             "Pedido": num_pedido_formatado,
